@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.4.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - AlamofireObjectMapper (4.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - Bond (6.2.6):
+    - Diff (~> 0.4)
+    - ReactiveKit (~> 3.5.3)
+  - Diff (0.5.3)
+  - EZAlertController (3.2)
+  - ObjectMapper (2.2.7)
+  - PKHUD (4.2.2)
+  - ReactiveKit (3.5.4)
+  - RxAlamofire (3.0.2):
+    - RxAlamofire/Core (= 3.0.2)
+  - RxAlamofire/Core (3.0.2):
+    - Alamofire (~> 4.0)
+    - RxSwift (~> 3.0)
+  - RxSwift (3.5.0)
+
+DEPENDENCIES:
+  - AlamofireImage
+  - AlamofireObjectMapper
+  - Bond
+  - EZAlertController
+  - PKHUD
+  - RxAlamofire
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  AlamofireObjectMapper: 435adc82f5b367679bd9e71c4974a54efd0b2521
+  Bond: 0d7a52e9aec644c3b4985ceeb224a402b1efd691
+  Diff: befa1d19c32726b2b36ce915d98793e2fbde8dcc
+  EZAlertController: 633be01320bed47720be54054df47667d61c2481
+  ObjectMapper: 65abcfd9a61cf7396cbd14a4fb22fddfcc46577e
+  PKHUD: 9a3599e04d57676ec14746c40e423a52fb6588c0
+  ReactiveKit: 4fc2a23db33777358abe93453ece3a69011adeec
+  RxAlamofire: bc53604b29fd2d220cfaa490c736cc4500819f34
+  RxSwift: 18ee9d78b45edb3b0b7e79916b47a116e6dbc842
+
+PODFILE CHECKSUM: c58bf3d9e28d48a53f88e238c84f5a937f78a180
+
+COCOAPODS: 1.1.1
